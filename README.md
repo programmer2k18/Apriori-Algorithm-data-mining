@@ -1,0 +1,2 @@
+# Apriori-Algorithm-data-mining
+This is an apriori algorithm applied to the following problem. A company decided to produce two types of cars (Family and Sports) with new customized colors. The file contains transactions of the best mix between colors and car type according to one-year sales. The program will be then used to detect the best color for each type to be able to produce the new model. The file contains 245,057 transactions and 11 items. The meaning of each item is given in the file ColorAttributes.xlsx.
